@@ -3,7 +3,6 @@
 [![tag:?](https://img.shields.io/github/tag/openpass-inc/openpass-webapp.svg?style=flat-square)](https://github.com/openpass-inc/openpass-webapp/releases)
 [![build:?](https://img.shields.io/travis/OpenPass-Inc/openpass-webapp/master.svg?style=flat-square)](https://travis-ci.org/openPass-inc/openpass-webapp)
 [![license:mit](https://img.shields.io/badge/license-mit-brightgreen.svg?style=flat-square)](#license)
-[![Standard - JavaScript Style Guide](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat-square)](http://standardjs.com/)
 [![dependencies:?](https://img.shields.io/david/openpass-inc/openpass-webapp.svg?style=flat-square)](https://david-dm.org/openpass-inc/openpass-webapp)
 [![devDependencies:?](https://img.shields.io/david/dev/openpass-inc/openpass-webapp.svg?style=flat-square)](https://david-dm.org/openpass-inc/openpass-webapp)
 [![github issues](https://img.shields.io/github/issues/openpass-inc/openpass-webapp.svg?style=flat-square)](https://github.com/openpass-inc/openpass-webapp/issues)
