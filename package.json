@@ -55,5 +55,8 @@
     "loader.js": "^4.0.10",
     "phantomjs-prebuilt": "^2.1.13",
     "standard": "^8.5.0"
+  },
+  "dependencies": {
+    "ember-cli-jshint": "^1.0.5"
   }
 }
