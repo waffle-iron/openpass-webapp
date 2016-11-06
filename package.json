@@ -1,0 +1,25 @@
+{
+  "name": "openpass-webapp",
+  "version": "0.0.0",
+  "description": "Web Application for OpenPass Identity Manager",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dannytech/openpass-webapp.git"
+  },
+  "keywords": [
+    "identity",
+    "manager",
+    "webapp",
+    "app"
+  ],
+  "author": "dhellstern <dhellstern@outlook.com>",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "bugs": {
+    "url": "https://github.com/dannytech/openpass-webapp/issues"
+  },
+  "homepage": "https://github.com/dannytech/openpass-webapp#readme"
+}
