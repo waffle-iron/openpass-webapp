@@ -2,7 +2,7 @@
 
 [![tag:?](https://img.shields.io/github/tag/openpass-inc/openpass-webapp.svg?style=flat-square)](https://github.com/openpass-inc/openpass-webapp/releases)
 [![build:?](https://img.shields.io/travis/OpenPass-Inc/openpass-webapp/master.svg?style=flat-square)](https://travis-ci.org/openPass-inc/openpass-webapp)
-[![license:mit](https://img.shields.io/badge/license-mit-brightgreen.svg?style=flat-square)](#license)
+[![license:copyright](https://img.shields.io/badge/license-copyright-brightgreen.svg?style=flat-square)](#license)
 [![dependencies:?](https://img.shields.io/david/openpass-inc/openpass-webapp.svg?style=flat-square)](https://david-dm.org/openpass-inc/openpass-webapp)
 [![devDependencies:?](https://img.shields.io/david/dev/openpass-inc/openpass-webapp.svg?style=flat-square)](https://david-dm.org/openpass-inc/openpass-webapp)
 [![github issues](https://img.shields.io/github/issues/openpass-inc/openpass-webapp.svg?style=flat-square)](https://github.com/openpass-inc/openpass-webapp/issues)
@@ -54,3 +54,16 @@ for the OpenPass Identity Manager project.
 * Development Browser Extensions
   * [ember inspector for chrome](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi)
   * [ember inspector for firefox](https://addons.mozilla.org/en-US/firefox/addon/ember-inspector/)
+
+## License
+
+#### Copyright (C) OpenPass Inc and dhellstern - All Rights Reserved
+
+Unauthorized copying of this software, or any portion of it, from any version,
+including but not limited to the source, via any medium, is strictly prohibited,
+for commercial or non-commercial use. Contributors use is permitted: any
+individual is permitted to download and develop the software, providing
+its use is to advance the software through development and contribution
+to the publically available code.
+
+Written by dhellstern &lt;dhellstern@outlook.com&gt;, November 2016
