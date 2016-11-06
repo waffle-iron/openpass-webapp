@@ -1,27 +1,29 @@
----
 language: node_js
 node_js:
-  - "4"
-  - "6"
-  - "7"
-  - "node"
-
+- '4'
+- '6'
+- '7'
+- node
 sudo: false
-
+env:
+  global:
+  - secure: cslntEOyKHSfn6PKXZopR6/yw2/pS9a0XDhOhbgZIyucwcK5ow3Amb5gzzUI6vCdpX+VooGNPTvi5SzzvVai4cBJ11u2lmRyQuICmbJDMoffHXh+4YhE2gEUR5VkmPEDZNuSgO4Xiz6sxIWBCUSZroffFyEDq2p88Hvy7Zam6jV0zzvtL4dfhmmShHvZhTlHM5ptGogFHKTpzY9eEy71M1vDFtmZnfs8FZlIArA8tgqoEntLWY0me6wf5kPqG+eFwNPDvFSvKrTMsUdIUoMa7eQxSlhE4KK+js6n46TUqX7qFEKTh1WsKA7r0TzWOoGZrdV79H55NoUatXyUCXzd1vAFg4fTPTiZuvBwGoZJsyCdaJGyubESpBDcyYzFmMoQi8RKUurpRxejI6ES1uIf6+WEnO25WbQ/VVLFVg0c6g6ViNAWWcBctKWKpApAg21SvMafyW/61WPWD9Z/LCDCfJtXnEKe5yo2vlg7imC90yc+zRRVrXrvO6bj5U/Rp+/bq40zeq5lACQRDySwRR/FkhXB8I+p6FY8w9XjytZC7noJ3Ul28pSJ5hEyaaWvb6Bp3xs18vlWdc2728iEZNb+hbKn9AwYhXllyXh6whOJ+azQAiMxkqV8JV4+ouTH1kc/rSGnpfQHcrx2e7Rra1vTPTHPxwwmG+SgTvmWYHVzQl4=
+  - secure: O+E1964AzBLeyMMK+Np7Es+UOphgD9Yne4Q00946tCSWxvuONUAFHYBSgIX01wFBcXDj0SWF97NGpfEXwJHIPGrwKecpKMpbKz8UxrUMbbaiSHKQ7UBDuX42zmnlJ4WsADrPuPIUHCUONEG7TsI1gcHIzu4dV1Q8gs2kYSMN857viRHi0vazh/wt8IWu6KhxjTnZ3dX51eYI6gvsibObI7CEUmTh6MRaCb+DLDbzEAuLpAwhEqXczNm3dCjyqlkwIhC4EDyqrBpooS6EIA5bFgXKZ9ZrRf0A4PoJtrWqpYu4tKHe6FqqBP3sDvq5Q9hjaXN7GPGVZ2aMkz/ZNHY3i/FubHE0G49IITXNpSt76lwq/yFyPSJcqRHtydde6wXpEAk1P73xXx9mPmQOc15X1ySWWD+pnkG7nunql0pYstOAE2BnDeFAPjQXY4krcdj9eRPdNnDqHGcpl8aBf+iz21L3LK4yUihgnNPm5NT/yeXve74RtvgwVE6Hp84CE0goltlRGSbvb98vgJ1HJXAU9W78HiZae3DFDZh4eSbW1OSDElFM0twYX2QmEtGCr1NfOsKDzMxp7nIrGDN+YCvQA9vV2dYQDZwP6MuqNxDJMSyw30acBUrqbqKdXaKY28GyyMZqGxItySLR6HPqp/xvE8BoeBRworailcHfiwvGDgQ=
 cache:
   directories:
-    - node_modules
-
+  - node_modules
 before_install:
-  - npm config set spin false
-  - npm install -g bower
-  - bower --version
-  - npm install phantomjs-prebuilt
-  - node_modules/phantomjs-prebuilt/bin/phantomjs --version
-
+- npm config set spin false
+- npm install -g bower
+- bower --version
+- npm install phantomjs-prebuilt
+- node_modules/phantomjs-prebuilt/bin/phantomjs --version
 install:
-  - npm install
-  - bower install
-
+- npm install
+- bower install
+before_script:
+- ember sauce:connect
 script:
-  - npm test
+- npm test
+after_script:
+- ember sauce:disconnect
