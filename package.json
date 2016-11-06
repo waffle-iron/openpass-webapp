@@ -53,8 +53,7 @@
     "ember-load-initializers": "^0.5.1",
     "ember-resolver": "^2.0.3",
     "loader.js": "^4.0.10",
-    "phantomjs-prebuilt": "^2.1.13",
-    "standard": "^8.5.0"
+    "phantomjs-prebuilt": "^2.1.13"
   },
   "dependencies": {
     "ember-cli-jshint": "^1.0.5"
