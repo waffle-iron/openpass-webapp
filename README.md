@@ -14,6 +14,10 @@
 [![trello](https://img.shields.io/badge/trello-openpass-blue.svg?style=flat-square)](https://trello.com/b/9VmbrZgF/openpass)
 [![open in Cloud9](https://img.shields.io/badge/open%20in-Cloud9-blue.svg?style=flat-square)](https://c9.io/auth/github?r=https%3A%2F%2Fc9.io%2Fopen%2F%3Fclone_url%3Dhttps%253A%252F%252Fgithub.com%252Fopenpass-inc%252Fopenpass-webapp.git)
 
+## Browser compatibility
+
+[![Browser Status](http://badges.herokuapp.com/travis/openpass-inc/openpass-webapp/sauce/dhellstern?style=flat-square)](https://saucelabs.com/u/dhellstern)
+
 openpass-webapp is an web application built with [EmberJS](http://emberjs.com/)
 for the OpenPass Identity Manager project.
 
