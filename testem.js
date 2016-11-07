@@ -33,9 +33,32 @@ module.exports = {
 
   "launch_in_dev": [
     "PhantomJS",
-    "Chrome"
+    "Chrome",
+    "Firefox",
+    "IE",
+    "Safari",
+    "Opera"
   ],
-
+  
+  "browser_args": {
+    "Chrome": [
+      "--auto-open-devtools-for-tabs",
+      "--purge-memory-button",
+      "--disable-translate",
+      "--disable-plugins"
+    ],
+    "Firefox": [
+      "-console",
+      "-safe-mode"
+    ],
+    "IE": [
+      "/extoff"
+    ],
+    "Opera": [
+      "-nosession"
+    ]
+  },
+  
   launchers: {
     // Windows 7
 
