@@ -27,7 +27,7 @@ module.exports = {
     "SL_firefox_public_dev_Windows_10",
     "SL_firefox_public_beta_Windows_10",
     "SL_firefox_public_49_Windows_10",
-    "SL_internet_explorer_public_11_Windows_10",
+    "SL_internet_explorer_public_11.103_Windows_10",
     "SL_MicrosoftEdge_public_14_14393_Windows_10"
   ],
 
@@ -4720,7 +4720,7 @@ module.exports = {
 
     // IE
 
-    SL_internet_explorer_public_11_103_Windows_10: {
+    'SL_internet_explorer_public_11.103_Windows_10': {
       "exe": "ember",
       "args": [
         "sauce:launch",
