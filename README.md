@@ -27,7 +27,7 @@ for the OpenPass Identity Manager project.
 
 ## Installation
 
-* `git clone <repository-url>` this repository
+* `git clone https://github.com/openpass-inc/openpass-webapp.git`
 * `cd openpass-webapp`
 * `npm install`
 * `bower install`
