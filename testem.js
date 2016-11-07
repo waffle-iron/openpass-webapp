@@ -7,6 +7,8 @@ module.exports = {
   "launch_in_ci": [
     "PhantomJS",
     
+    // Selenium
+    
     // Linux
     
     "SL_chrome_public_48_Linux",
@@ -68,7 +70,13 @@ module.exports = {
     
     "SL_chrome_public_54_OS_X_10_11",
     "SL_safari_public_10_OS_X_10_11",
-    "SL_firefox_public_49_OS_X_10_11"
+    "SL_firefox_public_49_OS_X_10_11",
+    
+    // Appium
+    
+    // iPhone Simulator
+    
+    "SL_safari_public_1_6_0_iOS_10_0_iPhone_Simulator_portrait"
   ],
 
   "launch_in_dev": [
@@ -100,8 +108,10 @@ module.exports = {
   },
   
   launchers: {
-    // Linux
+    // Selenium
     
+    // Linux
+
     // Chrome
 
     SL_chrome_public_26_Linux: {
@@ -1470,7 +1480,7 @@ module.exports = {
       ],
       "protocol": "browser"
     },
-    
+
     // Opera
 
     SL_opera_public_12_15_Linux: {
@@ -1493,7 +1503,7 @@ module.exports = {
       ],
       "protocol": "browser"
     },
-    
+
     // Windows XP
 
     // Chrome
@@ -2045,7 +2055,7 @@ module.exports = {
       ],
       "protocol": "browser"
     },
-    
+
     // Failing version, jQuery unsupported
     SL_internet_explorer_public_8_Windows_XP: {
       "exe": "ember",
@@ -3652,7 +3662,7 @@ module.exports = {
     },
 
     // IE
-    
+
     // Failing version, jQuery unsupported
     SL_internet_explorer_public_8_Windows_7: {
       "exe": "ember",
@@ -4791,7 +4801,7 @@ module.exports = {
       ],
       "protocol": "browser"
     },
-    
+
     // Safari
 
     SL_safari_public_5_1_Windows_7: {
@@ -15513,6 +15523,35 @@ module.exports = {
         "public",
         "-p",
         "OS X 10.11",
+        "--at",
+        "--no-ct",
+        "--u"
+      ],
+      "protocol": "browser"
+    },
+    
+    // Appium
+    
+    // iPhone Simulator
+    
+    // Safari
+
+    SL_Safari_public_1_6_0_iOS_10_0_iPhone_Simulator_portrait: {
+      "exe": "ember",
+      "args": [
+        "sauce:launch",
+        "-b",
+        "Safari",
+        "-v",
+        "1.6.0",
+        "--vi",
+        "public",
+        "-p",
+        "iOS 10.0",
+        "-dn",
+        "iPhone Simulator",
+        "-do",
+        "portrait",
         "--at",
         "--no-ct",
         "--u"
