@@ -76,7 +76,7 @@ module.exports = {
     
     // iPhone Simulator
     
-    "SL_safari_public_1_6_0_iOS_10_0_iPhone_Simulator_portrait"
+    "SL_safari_public_iOS_10_0_iPhone_Simulator_portrait"
   ],
 
   "launch_in_dev": [
@@ -109,7 +109,7 @@ module.exports = {
   
   launchers: {
     // Selenium
-    
+
     // Linux
 
     // Chrome
@@ -15529,21 +15529,19 @@ module.exports = {
       ],
       "protocol": "browser"
     },
-    
+
     // Appium
-    
+
     // iPhone Simulator
-    
+
     // Safari
 
-    SL_Safari_public_1_6_0_iOS_10_0_iPhone_Simulator_portrait: {
+    SL_safari_public_iOS_10_0_iPhone_Simulator_portrait: {
       "exe": "ember",
       "args": [
         "sauce:launch",
         "-b",
-        "Safari",
-        "-v",
-        "1.6.0",
+        "safari",
         "--vi",
         "public",
         "-p",
