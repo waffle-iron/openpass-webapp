@@ -22,43 +22,27 @@ module.exports = {
     
     // Windows 7
     
-    "SL_chrome_public_dev_Windows_7",
-    "SL_chrome_public_beta_Windows_7",
     "SL_chrome_public_54_Windows_7",
     "SL_internet_explorer_public_11_Windows_7",
-    "SL_firefox_public_dev_Windows_7",
-    "SL_firefox_public_beta_Windows_7",
     "SL_firefox_public_49_Windows_7",
     "SL_opera_public_12_12_Windows_7",
     "SL_safari_public_5_1_Windows_7",
     
     // Windows 8
     
-    "SL_chrome_public_dev_Windows_8",
-    "SL_chrome_public_beta_Windows_8",
     "SL_chrome_public_54_Windows_8",
-    "SL_firefox_public_dev_Windows_8",
-    "SL_firefox_public_beta_Windows_8",
     "SL_firefox_public_49_Windows_8",
     "SL_internet_explorer_public_10_Windows_8",
     
     // Windows 8.1
     
-    "SL_chrome_public_dev_Windows_8_1",
-    "SL_chrome_public_beta_Windows_8_1",
     "SL_chrome_public_54_Windows_8_1",
     "SL_internet_explorer_public_11_Windows_8_1",
-    "SL_firefox_public_dev_Windows_8_1",
-    "SL_firefox_public_beta_Windows_8_1",
     "SL_firefox_public_49_Windows_8_1",
     
     // Windows 10
     
-    "SL_chrome_public_dev_Windows_10",
-    "SL_chrome_public_beta_Windows_10",
     "SL_chrome_public_54_Windows_10",
-    "SL_firefox_public_dev_Windows_10",
-    "SL_firefox_public_beta_Windows_10",
     "SL_firefox_public_49_Windows_10",
     "SL_internet_explorer_public_11_103_Windows_10",
     "SL_MicrosoftEdge_public_14_14393_Windows_10",
@@ -67,38 +51,24 @@ module.exports = {
     
     "SL_chrome_public_49_OS_X_10_8",
     "SL_safari_public_6_OS_X_10_8",
-    "SL_firefox_public_dev_OS_X_10_8",
-    "SL_firefox_public_beta_OS_X_10_8",
     "SL_firefox_public_48_OS_X_10_8",
     
     // OS X Mavericks (10.9)
     
-    "SL_chrome_public_dev_OS_X_10_9",
-    "SL_chrome_public_beta_OS_X_10_9",
     "SL_chrome_public_54_OS_X_10_9",
     "SL_safari_public_7_OS_X_10_9",
-    "SL_firefox_public_dev_OS_X_10_9",
-    "SL_firefox_public_beta_OS_X_10_9",
     "SL_firefox_public_49_OS_X_10_9",
     
     // OS X Yosemite (10.10)
     
-    "SL_chrome_public_dev_OS_X_10_10",
-    "SL_chrome_public_beta_OS_X_10_10",
     "SL_chrome_public_54_OS_X_10_10",
     "SL_safari_public_8_OS_X_10_10",
-    "SL_firefox_public_dev_OS_X_10_10",
-    "SL_firefox_public_beta_OS_X_10_10",
     "SL_firefox_public_47_OS_X_10_10",
     
     // OS X El Capitan
     
-    "SL_chrome_public_dev_OS_X_10_11",
-    "SL_chrome_public_beta_OS_X_10_11",
     "SL_chrome_public_54_OS_X_10_11",
     "SL_safari_public_10_OS_X_10_11",
-    "SL_firefox_public_dev_OS_X_10_11",
-    "SL_firefox_public_beta_OS_X_10_11",
     "SL_firefox_public_49_OS_X_10_11"
   ],
 
