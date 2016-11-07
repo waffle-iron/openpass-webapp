@@ -52,7 +52,6 @@
     "ember-i18n": "4.3.2",
     "ember-load-initializers": "^0.5.1",
     "ember-resolver": "^2.0.3",
-    "loader.js": "^4.0.10",
-    "phantomjs-prebuilt": "^2.1.13"
+    "loader.js": "^4.0.10"
   }
 }
