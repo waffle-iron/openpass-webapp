@@ -20,14 +20,14 @@ module.exports = {
     "SL_firefox_public_dev_Windows_8",
     "SL_firefox_public_beta_Windows_8",
     "SL_firefox_public_49_Windows_8",
-    "SL_internet_explorer_public_11_Windows_8",
+    "SL_internet_explorer_public_10_Windows_8",
     "SL_chrome_public_dev_Windows_10",
     "SL_chrome_public_beta_Windows_10",
     "SL_chrome_public_54_Windows_10",
     "SL_firefox_public_dev_Windows_10",
     "SL_firefox_public_beta_Windows_10",
     "SL_firefox_public_49_Windows_10",
-    "SL_internet_explorer_public_11.103_Windows_10",
+    "SL_internet_explorer_public_11_103_Windows_10",
     "SL_MicrosoftEdge_public_14_14393_Windows_10"
   ],
 
@@ -1092,7 +1092,7 @@ module.exports = {
       "protocol": "browser"
     },
 
-    'SL_firefox_public_21.0b1_Windows_7': {
+    SL_firefox_public_21_0b1_Windows_7: {
       "exe": "ember",
       "args": [
         "sauce:launch",
@@ -1168,7 +1168,7 @@ module.exports = {
       "protocol": "browser"
     },
 
-    'SL_firefox_public_25.0b2_Windows_7': {
+    SL_firefox_public_25_0b2_Windows_7: {
       "exe": "ember",
       "args": [
         "sauce:launch",
@@ -2639,7 +2639,7 @@ module.exports = {
       "protocol": "browser"
     },
 
-    'SL_firefox_public_21.0b1_Windows_8': {
+    SL_firefox_public_21_0b1_Windows_8: {
       "exe": "ember",
       "args": [
         "sauce:launch",
@@ -2715,7 +2715,7 @@ module.exports = {
       "protocol": "browser"
     },
 
-    'SL_firefox_public_25.0b2_Windows_8': {
+    SL_firefox_public_25_0b2_Windows_8: {
       "exe": "ember",
       "args": [
         "sauce:launch",
@@ -4167,7 +4167,7 @@ module.exports = {
       "protocol": "browser"
     },
 
-    'SL_firefox_public_21.0b1_Windows_10': {
+    SL_firefox_public_21_0b1_Windows_10: {
       "exe": "ember",
       "args": [
         "sauce:launch",
@@ -4243,7 +4243,7 @@ module.exports = {
       "protocol": "browser"
     },
 
-    'SL_firefox_public_25.0b2_Windows_10': {
+    SL_firefox_public_25_0b2_Windows_10: {
       "exe": "ember",
       "args": [
         "sauce:launch",
@@ -4720,7 +4720,7 @@ module.exports = {
 
     // IE
 
-    'SL_internet_explorer_public_11.103_Windows_10': {
+    SL_internet_explorer_public_11_103_Windows_10: {
       "exe": "ember",
       "args": [
         "sauce:launch",
