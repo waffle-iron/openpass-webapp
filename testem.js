@@ -16,7 +16,7 @@ module.exports = {
     // Windows XP
     
     "SL_chrome_public_49_Windows_XP",
-    "SL_internet_explorer_public_8_Windows_XP",
+    // "SL_internet_explorer_public_8_Windows_XP" // Fails, Unsupported
     "SL_firefox_public_45_Windows_XP",
     "SL_opera_public_12_12_Windows_XP",
     
