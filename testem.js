@@ -109,6 +109,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -128,6 +130,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -147,6 +151,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -166,6 +172,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -185,6 +193,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -204,6 +214,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -223,6 +235,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -242,6 +256,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -261,6 +277,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -280,6 +298,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -299,6 +319,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -318,6 +340,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -337,6 +361,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -356,6 +382,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -375,6 +403,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -394,6 +424,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -413,6 +445,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -432,6 +466,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -451,6 +487,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -470,6 +508,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -489,6 +529,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -508,6 +550,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -527,6 +571,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -548,6 +594,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -567,6 +615,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -586,6 +636,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -605,6 +657,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -624,6 +678,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -643,6 +699,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -662,6 +720,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -681,6 +741,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -700,6 +762,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -719,6 +783,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -738,6 +804,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -757,6 +825,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -776,6 +846,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -795,6 +867,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -814,6 +888,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -833,6 +909,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -852,6 +930,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -871,6 +951,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -890,6 +972,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -909,6 +993,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -928,6 +1014,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -947,6 +1035,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -966,6 +1056,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -985,6 +1077,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -1004,6 +1098,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -1023,6 +1119,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -1042,6 +1140,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -1061,6 +1161,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -1080,6 +1182,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -1099,6 +1203,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -1118,6 +1224,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -1137,6 +1245,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -1156,6 +1266,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -1175,6 +1287,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -1194,6 +1308,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -1213,6 +1329,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -1232,6 +1350,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -1251,6 +1371,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -1270,6 +1392,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -1289,6 +1413,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -1308,6 +1434,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -1327,6 +1455,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -1348,6 +1478,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "opera",
         "-v",
@@ -1371,6 +1503,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -1390,6 +1524,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -1409,6 +1545,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -1428,6 +1566,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -1447,6 +1587,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -1466,6 +1608,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -1485,6 +1629,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -1504,6 +1650,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -1523,6 +1671,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -1542,6 +1692,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -1561,6 +1713,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -1580,6 +1734,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -1599,6 +1755,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -1618,6 +1776,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -1637,6 +1797,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -1656,6 +1818,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -1675,6 +1839,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -1694,6 +1860,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -1713,6 +1881,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -1732,6 +1902,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -1751,6 +1923,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -1770,6 +1944,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -1789,6 +1965,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -1808,6 +1986,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -1829,6 +2009,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "internet explorer",
         "-v",
@@ -1848,6 +2030,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "internet explorer",
         "-v",
@@ -1867,6 +2051,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "internet explorer",
         "-v",
@@ -1888,6 +2074,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -1907,6 +2095,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -1926,6 +2116,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -1945,6 +2137,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -1964,6 +2158,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -1983,6 +2179,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -2002,6 +2200,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -2021,6 +2221,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -2040,6 +2242,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -2059,6 +2263,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -2078,6 +2284,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -2097,6 +2305,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -2116,6 +2326,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -2135,6 +2347,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -2154,6 +2368,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -2173,6 +2389,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -2192,6 +2410,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -2211,6 +2431,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -2230,6 +2452,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -2249,6 +2473,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -2268,6 +2494,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -2287,6 +2515,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -2306,6 +2536,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -2325,6 +2557,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -2344,6 +2578,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -2363,6 +2599,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -2382,6 +2620,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -2401,6 +2641,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -2420,6 +2662,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -2439,6 +2683,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -2458,6 +2704,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -2477,6 +2725,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -2496,6 +2746,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -2515,6 +2767,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -2534,6 +2788,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -2553,6 +2809,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -2572,6 +2830,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -2591,6 +2851,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -2610,6 +2872,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -2629,6 +2893,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -2648,6 +2914,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -2667,6 +2935,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -2688,6 +2958,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "opera",
         "-v",
@@ -2707,6 +2979,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "opera",
         "-v",
@@ -2730,6 +3004,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -2749,6 +3025,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -2768,6 +3046,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -2787,6 +3067,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -2806,6 +3088,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -2825,6 +3109,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -2844,6 +3130,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -2863,6 +3151,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -2882,6 +3172,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -2901,6 +3193,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -2920,6 +3214,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -2939,6 +3235,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -2958,6 +3256,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -2977,6 +3277,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -2996,6 +3298,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -3015,6 +3319,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -3034,6 +3340,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -3053,6 +3361,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -3072,6 +3382,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -3091,6 +3403,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -3110,6 +3424,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -3129,6 +3445,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -3148,6 +3466,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -3167,6 +3487,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -3186,6 +3508,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -3205,6 +3529,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -3224,6 +3550,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -3243,6 +3571,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -3262,6 +3592,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -3281,6 +3613,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -3300,6 +3634,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -3321,6 +3657,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "internet explorer",
         "-v",
@@ -3340,6 +3678,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "internet explorer",
         "-v",
@@ -3359,6 +3699,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "internet explorer",
         "-v",
@@ -3378,6 +3720,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "internet explorer",
         "-v",
@@ -3399,6 +3743,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -3418,6 +3764,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -3437,6 +3785,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -3456,6 +3806,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -3475,6 +3827,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -3494,6 +3848,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -3513,6 +3869,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -3532,6 +3890,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -3551,6 +3911,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -3570,6 +3932,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -3589,6 +3953,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -3608,6 +3974,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -3627,6 +3995,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -3646,6 +4016,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -3665,6 +4037,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -3684,6 +4058,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -3703,6 +4079,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -3722,6 +4100,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -3741,6 +4121,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -3760,6 +4142,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -3779,6 +4163,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -3798,6 +4184,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -3817,6 +4205,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -3836,6 +4226,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -3855,6 +4247,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -3874,6 +4268,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -3893,6 +4289,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -3912,6 +4310,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -3931,6 +4331,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -3950,6 +4352,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -3969,6 +4373,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -3988,6 +4394,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -4007,6 +4415,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -4026,6 +4436,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -4045,6 +4457,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -4064,6 +4478,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -4083,6 +4499,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -4102,6 +4520,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -4121,6 +4541,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -4140,6 +4562,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -4159,6 +4583,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -4178,6 +4604,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -4197,6 +4625,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -4216,6 +4646,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -4235,6 +4667,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -4254,6 +4688,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -4273,6 +4709,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -4292,6 +4730,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -4313,6 +4753,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "opera",
         "-v",
@@ -4332,6 +4774,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "opera",
         "-v",
@@ -4353,6 +4797,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "safari",
         "-v",
@@ -4376,6 +4822,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -4395,6 +4843,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -4414,6 +4864,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -4433,6 +4885,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -4452,6 +4906,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -4471,6 +4927,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -4490,6 +4948,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -4509,6 +4969,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -4528,6 +4990,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -4547,6 +5011,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -4566,6 +5032,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -4585,6 +5053,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -4604,6 +5074,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -4623,6 +5095,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -4642,6 +5116,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -4661,6 +5137,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -4680,6 +5158,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -4699,6 +5179,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -4718,6 +5200,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -4737,6 +5221,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -4756,6 +5242,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -4775,6 +5263,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -4794,6 +5284,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -4813,6 +5305,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -4832,6 +5326,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -4851,6 +5347,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -4870,6 +5368,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -4889,6 +5389,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -4908,6 +5410,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -4927,6 +5431,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -4946,6 +5452,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -4967,6 +5475,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -4986,6 +5496,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -5005,6 +5517,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -5024,6 +5538,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -5043,6 +5559,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -5062,6 +5580,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -5081,6 +5601,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -5100,6 +5622,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -5119,6 +5643,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -5138,6 +5664,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -5157,6 +5685,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -5176,6 +5706,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -5195,6 +5727,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -5214,6 +5748,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -5233,6 +5769,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -5252,6 +5790,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -5271,6 +5811,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -5290,6 +5832,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -5309,6 +5853,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -5328,6 +5874,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -5347,6 +5895,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -5366,6 +5916,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -5385,6 +5937,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -5404,6 +5958,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -5423,6 +5979,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -5442,6 +6000,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -5461,6 +6021,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -5480,6 +6042,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -5499,6 +6063,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -5518,6 +6084,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -5537,6 +6105,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -5556,6 +6126,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -5575,6 +6147,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -5594,6 +6168,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -5613,6 +6189,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -5632,6 +6210,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -5651,6 +6231,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -5670,6 +6252,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -5689,6 +6273,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -5708,6 +6294,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -5727,6 +6315,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -5746,6 +6336,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -5765,6 +6357,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -5784,6 +6378,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -5803,6 +6399,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -5822,6 +6420,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -5841,6 +6441,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -5860,6 +6462,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -5881,6 +6485,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "internet explorer",
         "-v",
@@ -5904,6 +6510,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -5923,6 +6531,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -5942,6 +6552,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -5961,6 +6573,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -5980,6 +6594,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -5999,6 +6615,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -6018,6 +6636,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -6037,6 +6657,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -6056,6 +6678,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -6075,6 +6699,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -6094,6 +6720,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -6113,6 +6741,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -6132,6 +6762,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -6151,6 +6783,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -6170,6 +6804,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -6189,6 +6825,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -6208,6 +6846,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -6227,6 +6867,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -6246,6 +6888,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -6265,6 +6909,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -6284,6 +6930,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -6303,6 +6951,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -6322,6 +6972,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -6341,6 +6993,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -6360,6 +7014,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -6379,6 +7035,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -6398,6 +7056,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -6417,6 +7077,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -6436,6 +7098,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -6455,6 +7119,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -6474,6 +7140,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -6495,6 +7163,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -6514,6 +7184,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -6533,6 +7205,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -6552,6 +7226,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -6571,6 +7247,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -6590,6 +7268,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -6609,6 +7289,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -6628,6 +7310,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -6647,6 +7331,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -6666,6 +7352,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -6685,6 +7373,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -6704,6 +7394,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -6723,6 +7415,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -6742,6 +7436,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -6761,6 +7457,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -6780,6 +7478,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -6799,6 +7499,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -6818,6 +7520,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -6837,6 +7541,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -6856,6 +7562,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -6875,6 +7583,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -6894,6 +7604,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -6913,6 +7625,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -6932,6 +7646,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -6951,6 +7667,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -6970,6 +7688,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -6989,6 +7709,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -7008,6 +7730,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -7027,6 +7751,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -7046,6 +7772,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -7065,6 +7793,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -7084,6 +7814,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -7103,6 +7835,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -7122,6 +7856,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -7141,6 +7877,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -7160,6 +7898,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -7179,6 +7919,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -7198,6 +7940,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -7217,6 +7961,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -7236,6 +7982,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -7255,6 +8003,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -7274,6 +8024,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -7293,6 +8045,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -7312,6 +8066,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -7331,6 +8087,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -7350,6 +8108,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -7369,6 +8129,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -7388,6 +8150,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -7409,6 +8173,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "internet explorer",
         "-v",
@@ -7432,6 +8198,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -7451,6 +8219,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -7470,6 +8240,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -7489,6 +8261,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -7508,6 +8282,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -7527,6 +8303,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -7546,6 +8324,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -7565,6 +8345,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -7584,6 +8366,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -7603,6 +8387,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -7622,6 +8408,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -7641,6 +8429,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -7660,6 +8450,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -7679,6 +8471,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -7698,6 +8492,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -7717,6 +8513,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -7736,6 +8534,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -7755,6 +8555,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -7774,6 +8576,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -7793,6 +8597,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -7812,6 +8618,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -7831,6 +8639,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -7850,6 +8660,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -7869,6 +8681,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -7888,6 +8702,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -7907,6 +8723,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -7926,6 +8744,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -7945,6 +8765,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -7964,6 +8786,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -7983,6 +8807,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -8002,6 +8828,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -8023,6 +8851,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -8042,6 +8872,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -8061,6 +8893,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -8080,6 +8914,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -8099,6 +8935,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -8118,6 +8956,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -8137,6 +8977,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -8156,6 +8998,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -8175,6 +9019,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -8194,6 +9040,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -8213,6 +9061,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -8232,6 +9082,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -8251,6 +9103,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -8270,6 +9124,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -8289,6 +9145,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -8308,6 +9166,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -8327,6 +9187,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -8346,6 +9208,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -8365,6 +9229,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -8384,6 +9250,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -8403,6 +9271,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -8422,6 +9292,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -8441,6 +9313,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -8460,6 +9334,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -8479,6 +9355,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -8498,6 +9376,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -8517,6 +9397,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -8536,6 +9418,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -8555,6 +9439,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -8574,6 +9460,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -8593,6 +9481,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -8612,6 +9502,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -8631,6 +9523,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -8650,6 +9544,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -8669,6 +9565,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -8688,6 +9586,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -8707,6 +9607,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -8726,6 +9628,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -8745,6 +9649,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -8764,6 +9670,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -8783,6 +9691,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -8802,6 +9712,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -8821,6 +9733,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -8840,6 +9754,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -8859,6 +9775,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -8878,6 +9796,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -8897,6 +9817,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -8916,6 +9838,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -8937,6 +9861,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "internet explorer",
         "-v",
@@ -8958,6 +9884,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "MicrosoftEdge",
         "-v",
@@ -8977,6 +9905,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "MicrosoftEdge",
         "-v",
@@ -9000,6 +9930,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -9019,6 +9951,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -9038,6 +9972,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -9057,6 +9993,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -9076,6 +10014,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -9095,6 +10035,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -9114,6 +10056,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -9133,6 +10077,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -9152,6 +10098,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -9171,6 +10119,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -9190,6 +10140,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -9209,6 +10161,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -9228,6 +10182,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -9247,6 +10203,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -9266,6 +10224,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -9285,6 +10245,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -9304,6 +10266,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -9323,6 +10287,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -9342,6 +10308,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -9361,6 +10329,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -9380,6 +10350,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -9399,6 +10371,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -9418,6 +10392,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -9439,6 +10415,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "safari",
         "-v",
@@ -9460,6 +10438,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -9479,6 +10459,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -9498,6 +10480,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -9517,6 +10501,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -9536,6 +10522,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -9555,6 +10543,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -9574,6 +10564,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -9593,6 +10585,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -9612,6 +10606,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -9631,6 +10627,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -9650,6 +10648,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -9669,6 +10669,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -9688,6 +10690,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -9707,6 +10711,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -9726,6 +10732,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -9745,6 +10753,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -9764,6 +10774,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -9783,6 +10795,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -9802,6 +10816,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -9821,6 +10837,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -9840,6 +10858,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -9859,6 +10879,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -9878,6 +10900,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -9897,6 +10921,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -9916,6 +10942,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -9935,6 +10963,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -9954,6 +10984,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -9973,6 +11005,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -9992,6 +11026,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -10011,6 +11047,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -10030,6 +11068,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -10049,6 +11089,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -10068,6 +11110,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -10087,6 +11131,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -10106,6 +11152,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -10125,6 +11173,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -10144,6 +11194,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -10163,6 +11215,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -10182,6 +11236,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -10201,6 +11257,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -10220,6 +11278,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -10239,6 +11299,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -10258,6 +11320,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -10277,6 +11341,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -10296,6 +11362,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -10315,6 +11383,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -10334,6 +11404,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -10357,6 +11429,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -10376,6 +11450,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -10395,6 +11471,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -10414,6 +11492,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -10433,6 +11513,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -10452,6 +11534,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -10471,6 +11555,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -10490,6 +11576,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -10509,6 +11597,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -10528,6 +11618,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -10547,6 +11639,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -10566,6 +11660,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -10585,6 +11681,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -10604,6 +11702,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -10623,6 +11723,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -10642,6 +11744,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -10661,6 +11765,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -10680,6 +11786,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -10699,6 +11807,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -10718,6 +11828,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -10737,6 +11849,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -10756,6 +11870,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -10775,6 +11891,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -10794,6 +11912,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -10813,6 +11933,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -10832,6 +11954,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -10853,6 +11977,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "safari",
         "-v",
@@ -10874,6 +12000,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -10893,6 +12021,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -10912,6 +12042,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -10931,6 +12063,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -10950,6 +12084,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -10969,6 +12105,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -10988,6 +12126,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -11007,6 +12147,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -11026,6 +12168,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -11045,6 +12189,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -11064,6 +12210,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -11083,6 +12231,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -11102,6 +12252,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -11121,6 +12273,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -11140,6 +12294,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -11159,6 +12315,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -11178,6 +12336,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -11197,6 +12357,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -11216,6 +12378,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -11235,6 +12399,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -11254,6 +12420,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -11273,6 +12441,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -11292,6 +12462,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -11311,6 +12483,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -11330,6 +12504,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -11349,6 +12525,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -11368,6 +12546,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -11387,6 +12567,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -11406,6 +12588,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -11425,6 +12609,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -11444,6 +12630,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -11463,6 +12651,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -11482,6 +12672,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -11501,6 +12693,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -11520,6 +12714,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -11539,6 +12735,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -11558,6 +12756,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -11577,6 +12777,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -11596,6 +12798,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -11615,6 +12819,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -11634,6 +12840,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -11653,6 +12861,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -11672,6 +12882,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -11691,6 +12903,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -11710,6 +12924,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -11729,6 +12945,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -11748,6 +12966,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -11767,6 +12987,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -11790,6 +13012,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -11809,6 +13033,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -11828,6 +13054,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -11847,6 +13075,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -11866,6 +13096,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -11885,6 +13117,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -11904,6 +13138,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -11923,6 +13159,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -11942,6 +13180,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -11961,6 +13201,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -11980,6 +13222,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -11999,6 +13243,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -12018,6 +13264,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -12037,6 +13285,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -12056,6 +13306,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -12075,6 +13327,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -12094,6 +13348,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -12113,6 +13369,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -12132,6 +13390,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -12151,6 +13411,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -12172,6 +13434,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "safari",
         "-v",
@@ -12193,6 +13457,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -12212,6 +13478,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -12231,6 +13499,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -12250,6 +13520,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -12269,6 +13541,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -12288,6 +13562,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -12307,6 +13583,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -12326,6 +13604,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -12345,6 +13625,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -12364,6 +13646,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -12383,6 +13667,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -12402,6 +13688,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -12421,6 +13709,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -12440,6 +13730,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -12459,6 +13751,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -12478,6 +13772,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -12497,6 +13793,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -12516,6 +13814,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -12539,6 +13839,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -12558,6 +13860,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -12577,6 +13881,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -12596,6 +13902,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -12615,6 +13923,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -12634,6 +13944,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -12653,6 +13965,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -12672,6 +13986,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -12691,6 +14007,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -12710,6 +14028,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -12729,6 +14049,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -12748,6 +14070,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -12767,6 +14091,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -12786,6 +14112,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -12805,6 +14133,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -12824,6 +14154,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -12843,6 +14175,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -12862,6 +14196,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -12881,6 +14217,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -12900,6 +14238,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -12919,6 +14259,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -12938,6 +14280,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -12957,6 +14301,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -12976,6 +14322,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -12995,6 +14343,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -13014,6 +14364,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -13033,6 +14385,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -13052,6 +14406,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -13071,6 +14427,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -13090,6 +14448,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "chrome",
         "-v",
@@ -13111,6 +14471,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "safari",
         "-v",
@@ -13130,6 +14492,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "safari",
         "-v",
@@ -13151,6 +14515,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -13170,6 +14536,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -13189,6 +14557,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -13208,6 +14578,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -13227,6 +14599,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -13246,6 +14620,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -13265,6 +14641,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -13284,6 +14662,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -13303,6 +14683,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -13322,6 +14704,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -13341,6 +14725,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -13360,6 +14746,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -13379,6 +14767,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -13398,6 +14788,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -13417,6 +14809,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -13436,6 +14830,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -13455,6 +14851,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -13474,6 +14872,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -13493,6 +14893,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -13512,6 +14914,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -13531,6 +14935,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -13550,6 +14956,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -13569,6 +14977,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -13588,6 +14998,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -13607,6 +15019,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -13626,6 +15040,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -13645,6 +15061,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -13664,6 +15082,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -13683,6 +15103,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -13702,6 +15124,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -13721,6 +15145,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -13740,6 +15166,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -13759,6 +15187,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -13778,6 +15208,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -13797,6 +15229,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -13816,6 +15250,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -13835,6 +15271,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -13854,6 +15292,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -13873,6 +15313,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -13892,6 +15334,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -13911,6 +15355,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -13930,6 +15376,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -13949,6 +15397,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -13968,6 +15418,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -13987,6 +15439,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -14006,6 +15460,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -14025,6 +15481,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
@@ -14044,6 +15502,8 @@ module.exports = {
       "exe": "ember",
       "args": [
         "sauce:launch",
+        "--timeout",
+        "10000",
         "-b",
         "firefox",
         "-v",
