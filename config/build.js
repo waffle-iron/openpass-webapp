@@ -71,11 +71,11 @@ module.exports = {
     
     // iPhone Simulator
     
-    "SL_safari_public_iPhone_Simulator_10_portrait",
+    "SL_ios_10_public_iPhone_Simulator_portrait",
     
     // Android Emulator
     
-    "SL_android_public_Android_Emulator_5_1_portrait"
+    "SL_android_5_1_public_Android_Emulator_portrait"
   ],
   
   launchers: {
@@ -15507,14 +15507,14 @@ module.exports = {
   
     // Safari
     
-    SL_safari_public_iPhone_Simulator_8_1_portrait: {
+    SL_ios_8_1_public_iPhone_Simulator_portrait: {
       "exe": "ember",
       "args": [
         "sauce:launch",
         "--vi",
         "public",
         "-b",
-        "safari",
+        "ios",
         "-v",
         "8.1",
         "-dn",
@@ -15528,14 +15528,14 @@ module.exports = {
       "protocol": "browser"
     },
     
-    SL_safari_public_iPhone_Simulator_8_2_portrait: {
+    SL_ios_8_2_public_iPhone_Simulator_portrait: {
       "exe": "ember",
       "args": [
         "sauce:launch",
         "--vi",
         "public",
         "-b",
-        "safari",
+        "ios",
         "-v",
         "8.2",
         "-dn",
@@ -15549,14 +15549,14 @@ module.exports = {
       "protocol": "browser"
     },
     
-    SL_safari_public_iPhone_Simulator_8_3_portrait: {
+    SL_ios_8_3_public_iPhone_Simulator_portrait: {
       "exe": "ember",
       "args": [
         "sauce:launch",
         "--vi",
         "public",
         "-b",
-        "safari",
+        "ios",
         "-v",
         "8.3",
         "-dn",
@@ -15570,14 +15570,14 @@ module.exports = {
       "protocol": "browser"
     },
     
-    SL_safari_public_iPhone_Simulator_8_4_portrait: {
+    SL_ios_8_4_public_iPhone_Simulator_portrait: {
       "exe": "ember",
       "args": [
         "sauce:launch",
         "--vi",
         "public",
         "-b",
-        "safari",
+        "ios",
         "-v",
         "8.4",
         "-dn",
@@ -15591,14 +15591,14 @@ module.exports = {
       "protocol": "browser"
     },
     
-    SL_safari_public_iPhone_Simulator_9_portrait: {
+    SL_ios_9_public_iPhone_Simulator_portrait: {
       "exe": "ember",
       "args": [
         "sauce:launch",
         "--vi",
         "public",
         "-b",
-        "safari",
+        "ios",
         "-v",
         "9",
         "-dn",
@@ -15612,14 +15612,14 @@ module.exports = {
       "protocol": "browser"
     },
     
-    SL_safari_public_iPhone_Simulator_9_1_portrait: {
+    SL_ios_9_1_public_iPhone_Simulator_portrait: {
       "exe": "ember",
       "args": [
         "sauce:launch",
         "--vi",
         "public",
         "-b",
-        "safari",
+        "ios",
         "-v",
         "9.1",
         "-dn",
@@ -15633,14 +15633,14 @@ module.exports = {
       "protocol": "browser"
     },
     
-    SL_safari_public_iPhone_Simulator_9_2_portrait: {
+    SL_ios_9_2_public_iPhone_Simulator_portrait: {
       "exe": "ember",
       "args": [
         "sauce:launch",
         "--vi",
         "public",
         "-b",
-        "safari",
+        "ios",
         "-v",
         "9.2",
         "-dn",
@@ -15654,14 +15654,14 @@ module.exports = {
       "protocol": "browser"
     },
     
-    SL_safari_public_iPhone_Simulator_9_3_portrait: {
+    SL_ios_9_3_public_iPhone_Simulator_portrait: {
       "exe": "ember",
       "args": [
         "sauce:launch",
         "--vi",
         "public",
         "-b",
-        "safari",
+        "ios",
         "-v",
         "9.3",
         "-dn",
@@ -15675,14 +15675,14 @@ module.exports = {
       "protocol": "browser"
     },
     
-    SL_safari_public_iPhone_Simulator_10_portrait: {
+    SL_ios_10_public_iPhone_Simulator_portrait: {
       "exe": "ember",
       "args": [
         "sauce:launch",
         "--vi",
         "public",
         "-b",
-        "safari",
+        "ios",
         "-v",
         "10",
         "-dn",
@@ -15700,7 +15700,7 @@ module.exports = {
     
     // Android Browser
     
-    SL_android_public_Android_Emulator_4_0_portrait: {
+    SL_android_4_0_public_Android_Emulator_portrait: {
       "exe": "ember",
       "args": [
         "sauce:launch",
@@ -15721,7 +15721,7 @@ module.exports = {
       "protocol": "browser"
     },
     
-    SL_android_public_Android_Emulator_4_1_portrait: {
+    SL_android_4_1_public_Android_Emulator_portrait: {
       "exe": "ember",
       "args": [
         "sauce:launch",
@@ -15742,7 +15742,7 @@ module.exports = {
       "protocol": "browser"
     },
     
-    SL_android_public_Android_Emulator_4_2_portrait: {
+    SL_android_4_2_public_Android_Emulator_portrait: {
       "exe": "ember",
       "args": [
         "sauce:launch",
@@ -15763,7 +15763,7 @@ module.exports = {
       "protocol": "browser"
     },
     
-    SL_android_public_Android_Emulator_4_3_portrait: {
+    SL_android_4_3_public_Android_Emulator_portrait: {
       "exe": "ember",
       "args": [
         "sauce:launch",
@@ -15784,7 +15784,7 @@ module.exports = {
       "protocol": "browser"
     },
     
-    SL_android_public_Android_Emulator_4_4_portrait: {
+    SL_android_4_4_public_Android_Emulator_portrait: {
       "exe": "ember",
       "args": [
         "sauce:launch",
@@ -15805,7 +15805,7 @@ module.exports = {
       "protocol": "browser"
     },
   
-    SL_android_public_Android_Emulator_5_0_portrait: {
+    SL_android_5_public_Android_Emulator_portrait: {
       "exe": "ember",
       "args": [
         "sauce:launch",
@@ -15814,7 +15814,7 @@ module.exports = {
         "-b",
         "android",
         "-v",
-        "5.0",
+        "5",
         "-dn",
         "Android Emulator",
         "-do",
@@ -15826,7 +15826,7 @@ module.exports = {
       "protocol": "browser"
     },
     
-    SL_android_public_Android_Emulator_5_1_portrait: {
+    SL_android_5_1_public_Android_Emulator_portrait: {
       "exe": "ember",
       "args": [
         "sauce:launch",
