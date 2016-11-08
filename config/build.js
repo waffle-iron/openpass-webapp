@@ -71,9 +71,11 @@ module.exports = {
     
     // iPhone Simulator
     
+    "SL_safari_public_iPhone_Simulator_10_portrait",
+    
     // Android Emulator
     
-    "SL_android_public_Android_Emulator_portrait"
+    "SL_android_public_Android_Emulator_5_1_portrait"
   ],
   
   launchers: {
@@ -15505,24 +15507,339 @@ module.exports = {
   
     // Safari
     
-    // Android Simulator
-    
-    // Android Browser
-  
-    SL_android_public_Android_Emulator_portrait: {
+    SL_safari_public_iPhone_Simulator_8_1_portrait: {
       "exe": "ember",
       "args": [
         "sauce:launch",
         "--vi",
         "public",
         "-b",
-        "Browser",
+        "safari",
+        "-v",
+        "8.1",
+        "-dn",
+        "iPhone Simulator",
+        "-do",
+        "portrait",
+        "--at",
+        "--no-ct",
+        "--u"
+      ],
+      "protocol": "browser"
+    },
+    
+    SL_safari_public_iPhone_Simulator_8_2_portrait: {
+      "exe": "ember",
+      "args": [
+        "sauce:launch",
+        "--vi",
+        "public",
+        "-b",
+        "safari",
+        "-v",
+        "8.2",
+        "-dn",
+        "iPhone Simulator",
+        "-do",
+        "portrait",
+        "--at",
+        "--no-ct",
+        "--u"
+      ],
+      "protocol": "browser"
+    },
+    
+    SL_safari_public_iPhone_Simulator_8_3_portrait: {
+      "exe": "ember",
+      "args": [
+        "sauce:launch",
+        "--vi",
+        "public",
+        "-b",
+        "safari",
+        "-v",
+        "8.3",
+        "-dn",
+        "iPhone Simulator",
+        "-do",
+        "portrait",
+        "--at",
+        "--no-ct",
+        "--u"
+      ],
+      "protocol": "browser"
+    },
+    
+    SL_safari_public_iPhone_Simulator_8_4_portrait: {
+      "exe": "ember",
+      "args": [
+        "sauce:launch",
+        "--vi",
+        "public",
+        "-b",
+        "safari",
+        "-v",
+        "8.4",
+        "-dn",
+        "iPhone Simulator",
+        "-do",
+        "portrait",
+        "--at",
+        "--no-ct",
+        "--u"
+      ],
+      "protocol": "browser"
+    },
+    
+    SL_safari_public_iPhone_Simulator_9_portrait: {
+      "exe": "ember",
+      "args": [
+        "sauce:launch",
+        "--vi",
+        "public",
+        "-b",
+        "safari",
+        "-v",
+        "9",
+        "-dn",
+        "iPhone Simulator",
+        "-do",
+        "portrait",
+        "--at",
+        "--no-ct",
+        "--u"
+      ],
+      "protocol": "browser"
+    },
+    
+    SL_safari_public_iPhone_Simulator_9_1_portrait: {
+      "exe": "ember",
+      "args": [
+        "sauce:launch",
+        "--vi",
+        "public",
+        "-b",
+        "safari",
+        "-v",
+        "9.1",
+        "-dn",
+        "iPhone Simulator",
+        "-do",
+        "portrait",
+        "--at",
+        "--no-ct",
+        "--u"
+      ],
+      "protocol": "browser"
+    },
+    
+    SL_safari_public_iPhone_Simulator_9_2_portrait: {
+      "exe": "ember",
+      "args": [
+        "sauce:launch",
+        "--vi",
+        "public",
+        "-b",
+        "safari",
+        "-v",
+        "9.2",
+        "-dn",
+        "iPhone Simulator",
+        "-do",
+        "portrait",
+        "--at",
+        "--no-ct",
+        "--u"
+      ],
+      "protocol": "browser"
+    },
+    
+    SL_safari_public_iPhone_Simulator_9_3_portrait: {
+      "exe": "ember",
+      "args": [
+        "sauce:launch",
+        "--vi",
+        "public",
+        "-b",
+        "safari",
+        "-v",
+        "9.3",
+        "-dn",
+        "iPhone Simulator",
+        "-do",
+        "portrait",
+        "--at",
+        "--no-ct",
+        "--u"
+      ],
+      "protocol": "browser"
+    },
+    
+    SL_safari_public_iPhone_Simulator_10_portrait: {
+      "exe": "ember",
+      "args": [
+        "sauce:launch",
+        "--vi",
+        "public",
+        "-b",
+        "safari",
+        "-v",
+        "10",
+        "-dn",
+        "iPhone Simulator",
+        "-do",
+        "portrait",
+        "--at",
+        "--no-ct",
+        "--u"
+      ],
+      "protocol": "browser"
+    },
+    
+    // Android Simulator
+    
+    // Android Browser
+    
+    SL_android_public_Android_Emulator_4_0_portrait: {
+      "exe": "ember",
+      "args": [
+        "sauce:launch",
+        "--vi",
+        "public",
+        "-b",
+        "android",
+        "-v",
+        "4.0",
         "-dn",
         "Android Emulator",
         "-do",
         "portrait",
-        "-p",
-        "Android",
+        "--at",
+        "--no-ct",
+        "--u"
+      ],
+      "protocol": "browser"
+    },
+    
+    SL_android_public_Android_Emulator_4_1_portrait: {
+      "exe": "ember",
+      "args": [
+        "sauce:launch",
+        "--vi",
+        "public",
+        "-b",
+        "android",
+        "-v",
+        "4.1",
+        "-dn",
+        "Android Emulator",
+        "-do",
+        "portrait",
+        "--at",
+        "--no-ct",
+        "--u"
+      ],
+      "protocol": "browser"
+    },
+    
+    SL_android_public_Android_Emulator_4_2_portrait: {
+      "exe": "ember",
+      "args": [
+        "sauce:launch",
+        "--vi",
+        "public",
+        "-b",
+        "android",
+        "-v",
+        "4.2",
+        "-dn",
+        "Android Emulator",
+        "-do",
+        "portrait",
+        "--at",
+        "--no-ct",
+        "--u"
+      ],
+      "protocol": "browser"
+    },
+    
+    SL_android_public_Android_Emulator_4_3_portrait: {
+      "exe": "ember",
+      "args": [
+        "sauce:launch",
+        "--vi",
+        "public",
+        "-b",
+        "android",
+        "-v",
+        "4.3",
+        "-dn",
+        "Android Emulator",
+        "-do",
+        "portrait",
+        "--at",
+        "--no-ct",
+        "--u"
+      ],
+      "protocol": "browser"
+    },
+    
+    SL_android_public_Android_Emulator_4_4_portrait: {
+      "exe": "ember",
+      "args": [
+        "sauce:launch",
+        "--vi",
+        "public",
+        "-b",
+        "android",
+        "-v",
+        "4.4",
+        "-dn",
+        "Android Emulator",
+        "-do",
+        "portrait",
+        "--at",
+        "--no-ct",
+        "--u"
+      ],
+      "protocol": "browser"
+    },
+  
+    SL_android_public_Android_Emulator_5_0_portrait: {
+      "exe": "ember",
+      "args": [
+        "sauce:launch",
+        "--vi",
+        "public",
+        "-b",
+        "android",
+        "-v",
+        "5.0",
+        "-dn",
+        "Android Emulator",
+        "-do",
+        "portrait",
+        "--at",
+        "--no-ct",
+        "--u"
+      ],
+      "protocol": "browser"
+    },
+    
+    SL_android_public_Android_Emulator_5_1_portrait: {
+      "exe": "ember",
+      "args": [
+        "sauce:launch",
+        "--vi",
+        "public",
+        "-b",
+        "android",
+        "-v",
+        "5.1",
+        "-dn",
+        "Android Emulator",
+        "-do",
+        "portrait",
         "--at",
         "--no-ct",
         "--u"
