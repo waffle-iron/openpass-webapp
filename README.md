@@ -1,7 +1,7 @@
 # openpass-webapp
 
 [![tag:?](https://img.shields.io/github/tag/openpass-inc/openpass-webapp.svg?style=flat-square)](https://github.com/openpass-inc/openpass-webapp/releases)
-[![build:?](https://img.shields.io/travis/OpenPass-Inc/openpass-webapp/master.svg?style=flat-square)](https://travis-ci.org/openPass-inc/openpass-webapp)
+[![build:?](https://img.shields.io/travis/openpass-inc/openpass-webapp/master.svg?style=flat-square)](https://travis-ci.org/openpass-inc/openpass-webapp)
 [![license:copyright](https://img.shields.io/badge/license-copyright-brightgreen.svg?style=flat-square)](#license)
 [![dependencies:?](https://img.shields.io/david/openpass-inc/openpass-webapp.svg?style=flat-square)](https://david-dm.org/openpass-inc/openpass-webapp)
 [![devDependencies:?](https://img.shields.io/david/dev/openpass-inc/openpass-webapp.svg?style=flat-square)](https://david-dm.org/openpass-inc/openpass-webapp)
