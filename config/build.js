@@ -4736,7 +4736,7 @@ module.exports = {
       "args": [
         "sauce:launch",
         "-ln",
-        "safari 5.1 on Windows 7",
+        "Safari 5.1 on Windows 7",
         "-b",
         "safari",
         "-v",
