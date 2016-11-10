@@ -20,6 +20,15 @@ module.exports = function(environment) {
     APP: {
       // Here you can pass flags/options to your application instance
       // when it is created
+    },
+    
+    GA: {
+      name: 'GoogleAnalytics',
+      config: {
+        remarketing: true,
+        ecommerce: false,
+        enhancedEcommerce: false
+      }
     }
   };
 
@@ -29,6 +38,7 @@ module.exports = function(environment) {
     // ENV.APP.LOG_TRANSITIONS = true;
     // ENV.APP.LOG_TRANSITIONS_INTERNAL = true;
     // ENV.APP.LOG_VIEW_LOOKUPS = true;
+    ENV.GA.config.id = 'UA-87148618-2';
   }
 
   if (environment === 'test') {
@@ -40,10 +50,12 @@ module.exports = function(environment) {
     ENV.APP.LOG_VIEW_LOOKUPS = false;
 
     ENV.APP.rootElement = '#ember-testing';
+    
+    ENV.GA.config.id = 'UA-87148618-2';
   }
 
   if (environment === 'production') {
-
+    ENV.GA.config.id = 'UA-87148618-1';
   }
 
   return ENV;
