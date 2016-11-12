@@ -5,6 +5,9 @@ module.exports = function(deployTarget) {
     build: {
       environment: deployTarget
     },
+    'revision-data': {
+      type: 'git-commit'
+    },
     slack: {
       webhookURL: 'https://hooks.slack.com/services/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',
       channel: '#build',
