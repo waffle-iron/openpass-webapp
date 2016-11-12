@@ -4,7 +4,40 @@ module.exports = function(deployTarget) {
   var ENV = {
     build: {},
     slack: {
-      webhookURL: "https://hooks.slack.com/services/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"
+      webhookURL: 'https://hooks.slack.com/services/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',
+      channel: '#build',
+      username: 'ember-cli-deploy',
+      willDeploy: function(context) {
+        return function(slack) {
+          return {
+            slackStartDeployDate: new Date()
+          };
+        };
+      },
+    
+      didDeploy: function(context) {
+        return function(slack) {
+          var start = context.slackStartDeployDate;
+          var end = new Date();
+          var duration = (end - start) / 1000;
+    
+          return slack.notify({
+            text: 'Deploy succeeded in ' + duration + ' seconds'
+          });
+        };
+      },
+      
+      didFail: function(context) {
+        return function(slack) {
+          var start = context.slackStartDeployDate;
+          var end = new Date();
+          var duration = (end - start) / 1000;
+          
+          return slack.notify({
+            text: 'Deploy failed in ' + duration + ' seconds'
+          });
+        };
+      }
     }
     // include other plugin configuration that applies to all deploy targets here
   };
