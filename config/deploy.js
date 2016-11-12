@@ -2,7 +2,9 @@
 
 module.exports = function(deployTarget) {
   var ENV = {
-    build: {},
+    build: {
+      environment: deployTarget
+    },
     slack: {
       webhookURL: 'https://hooks.slack.com/services/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',
       channel: '#build',
