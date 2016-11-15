@@ -6,6 +6,16 @@ node_js:
 - '7'
 - node
 sudo: false
+env:
+  - EMBER_TRY_SCENARIO=default
+  - EMBER_TRY_SCENARIO=ember-1.13
+  - EMBER_TRY_SCENARIO=ember-release
+  - EMBER_TRY_SCENARIO=ember-beta
+  - EMBER_TRY_SCENARIO=ember-canary
+matrix:
+  fast_finish: true
+  allow_failures:
+    - env: EMBER_TRY_SCENARIO=ember-canary
 cache:
   directories:
   - node_modules
@@ -20,7 +30,7 @@ install:
 - npm install
 - bower install
 script:
-- npm test
+- ember try:one $EMBER_TRY_SCENARIO -- npm test
 notifications:
   slack:
     secure: F7QYtmIuZp35UqdUFyuRojIk6nRxLpDGn2/CR0xdIkfKu59wZADenerOIVYSSgWskqyDdiAAtgZUL9ja10wNWq5KJGyc80Ti4Ss+TbEWqhQdGr00SmC+9gNUEDVKhfRovQwit9LCkNlgmbYzJ3Pj6QJW9EOyoPmosZ/bdftL+ezDmAlxUFYO9/bufdfuH6S+kkQcVBXlowHF0Xa3b2BCW53E0wygmQ1AuGEx4phJ5ngJina62PMexopaKUW2IttUZfn/D/OCsFdndvjh6J1aMtqPVw4dNIJTObhJlkrpiwLx/WJXx2qJ7nSoYaN+6f7DZd+jtVDFRWpFWhp9ed0pcKZSEhphs/zJ+Nhk/nZwX7Y1MbXyTHbmd4ukvqhFpYwSpyVQS895e93t3hmy/qsZ0RvebVXe54aeAl6iY6XFU5DfsuyfwxxPHBC+mtl8LKWkKf9jaZjcGBCUSKwMkaEv6YlQbvDC8ZbOXfhgmQ8t3Y6yDyn8YtefFri1tUlzo9PzLO6Jw6m6QF0mZ4i5A3KqG3sH12vlb6Yns9NaXFE3TEaI3h19hq7+xQ4Dw5v5Zmu0jSUISFMht//6S/Xx0B7Yn/q3H4SfpfIGCHxY+rFQw9ioiDfAx6N5sTme8MD4Wo4/h3suk6RDD9Wg4fCiXAR8A/oPQ5k2247yCuO20HSanOo=
