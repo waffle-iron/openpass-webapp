@@ -9,7 +9,7 @@ module.exports = function(deployTarget) {
       type: 'git-commit'
     },
     slack: {
-      webhookURL: 'https://hooks.slack.com/services/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',
+      webhookURL: 'https://hooks.slack.com/services/T2EGWER47/B31P0FP7U/' + process.env.SLACK_WEBHOOK_TOKEN,
       channel: '#build',
       username: 'ember-cli-deploy',
       willDeploy: function(context) {

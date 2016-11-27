@@ -20,7 +20,8 @@ install:
 - npm install
 - bower install
 before_script:
-- export BRANCH=$(if [ "$TRAVIS_PULL_REQUEST" == "false" ]; then echo $TRAVIS_BRANCH; else echo $TRAVIS_PULL_REQUEST_BRANCH; fi)
+- export BRANCH=$(if [ "$TRAVIS_PULL_REQUEST" == "false" ]; then echo $TRAVIS_BRANCH;
+  else echo $TRAVIS_PULL_REQUEST_BRANCH; fi)
 script:
 - npm test
 after_success:
@@ -28,3 +29,6 @@ after_success:
 notifications:
   slack:
     secure: F7QYtmIuZp35UqdUFyuRojIk6nRxLpDGn2/CR0xdIkfKu59wZADenerOIVYSSgWskqyDdiAAtgZUL9ja10wNWq5KJGyc80Ti4Ss+TbEWqhQdGr00SmC+9gNUEDVKhfRovQwit9LCkNlgmbYzJ3Pj6QJW9EOyoPmosZ/bdftL+ezDmAlxUFYO9/bufdfuH6S+kkQcVBXlowHF0Xa3b2BCW53E0wygmQ1AuGEx4phJ5ngJina62PMexopaKUW2IttUZfn/D/OCsFdndvjh6J1aMtqPVw4dNIJTObhJlkrpiwLx/WJXx2qJ7nSoYaN+6f7DZd+jtVDFRWpFWhp9ed0pcKZSEhphs/zJ+Nhk/nZwX7Y1MbXyTHbmd4ukvqhFpYwSpyVQS895e93t3hmy/qsZ0RvebVXe54aeAl6iY6XFU5DfsuyfwxxPHBC+mtl8LKWkKf9jaZjcGBCUSKwMkaEv6YlQbvDC8ZbOXfhgmQ8t3Y6yDyn8YtefFri1tUlzo9PzLO6Jw6m6QF0mZ4i5A3KqG3sH12vlb6Yns9NaXFE3TEaI3h19hq7+xQ4Dw5v5Zmu0jSUISFMht//6S/Xx0B7Yn/q3H4SfpfIGCHxY+rFQw9ioiDfAx6N5sTme8MD4Wo4/h3suk6RDD9Wg4fCiXAR8A/oPQ5k2247yCuO20HSanOo=
+env:
+  global:
+    secure: TJa7VtAIrRcDbRsoyVyaCl7vcURtJFOvxPbyI17Gwfw5BV/XHSvmvbpnFGfNm3aBXCQpHm3qspFZ5l+GxETc+u/iW+YoRkO5cWZlexUZYJ/l9nQKzekBciG+zofE3Xn61hRQGJb1Kvely6cbZtOfWGL8nZKYase3itL35l70uiKMphTOORyS+o/PlDbgjvZHL0LsqgmvfJbYVQhXMETsfWaj1cPjjTFO9uAtK4a0X7jyP5KSEr+yBVuem/Sg3n3Kp+NDpfv0/k3O8aVHPWFvfpr+pf2AuoU89Tn81TUsWZ/T42X2CH0Oi9d+nH0phrD4buCbayc9b/1Fax75xvZC/zwWoFJcNH4Cwg8GwzrnrgUEF6srRE9s5m34xJbNDPCbQG8FdfQ3S/eO3eSv95elH0TytgnDYcol4KNO26kEmpoYG5pv9UPy0+C5N1Vy4WDX5elqMbZXRL2+8NMSNjEvmFNOst0CSzO21rTNWKJHXppcmBIziVPPyM0dnlbi4bmICMa46naAcBSfM7DyHOqMK9MJXV5iiYFtHcMg8JycAIUhJYNDZA2yHfxEdQt+tKbt+uN8RVL1srIiijOHErh3wQOJyp6ZnByLtAzS1B6PMqAPfpM+9GdO1PmCJP1rHYb8Z8dtgiXk/TJ/YE8DOehgaLgJ5qBTjv6yu1q88HFw8J0= # SLACK_WEBHOOK_TOKEN
