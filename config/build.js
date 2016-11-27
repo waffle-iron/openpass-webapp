@@ -14,13 +14,14 @@ module.exports = {
     
     "SL_chrome_public_49_Windows_XP",
     "SL_firefox_public_45_Windows_XP",
+    "SL_internet_explorer_public_8_Windows_XP",
     "SL_opera_public_12_12_Windows_XP",
     
     // Windows 7
     
     "SL_chrome_public_54_Windows_7",
-    "SL_internet_explorer_public_11_Windows_7",
     "SL_firefox_public_49_Windows_7",
+    "SL_internet_explorer_public_11_Windows_7",
     "SL_opera_public_12_12_Windows_7",
     "SL_safari_public_5_1_Windows_7",
     
@@ -33,8 +34,8 @@ module.exports = {
     // Windows 8.1
     
     "SL_chrome_public_54_Windows_8_1",
-    "SL_internet_explorer_public_11_Windows_8_1",
     "SL_firefox_public_49_Windows_8_1",
+    "SL_internet_explorer_public_11_Windows_8_1",
     
     // Windows 10
     
@@ -2026,6 +2027,27 @@ module.exports = {
       ],
       "protocol": "browser"
     },
+    
+    SL_internet_explorer_public_8_Windows_XP: {
+      "exe": "ember",
+      "args": [
+        "sauce:launch",
+        "-ln",
+        "Internet Explorer 8 on Windows XP",
+        "-b",
+        "internet explorer",
+        "-v",
+        "8",
+        "--vi",
+        "public",
+        "-p",
+        "Windows XP",
+        "--at",
+        "--no-ct",
+        "--u"
+      ],
+      "protocol": "browser"
+    },
   
     // Firefox
   
@@ -3611,6 +3633,27 @@ module.exports = {
     },
   
     // IE
+    
+    SL_internet_explorer_public_8_Windows_7: {
+        "exe": "ember",
+        "args": [
+         "sauce:launch",
+         "--timeout",
+         "10000",
+         "-b",
+         "internet explorer",
+         "-v",
+         "8",
+         "--vi",
+         "public",
+         "-p",
+         "Windows 7",
+         "--at",
+         "--no-ct",
+         "--u"
+       ],
+       "protocol": "browser"
+     },
   
     SL_internet_explorer_public_9_Windows_7: {
       "exe": "ember",
