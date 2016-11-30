@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/openpass-inc/openpass-webapp.png?label=ready&title=Ready)](https://waffle.io/openpass-inc/openpass-webapp)
 # openpass-webapp
 
 [![tag:?](https://img.shields.io/github/tag/openpass-inc/openpass-webapp.svg?style=flat-square)](https://github.com/openpass-inc/openpass-webapp/releases)
